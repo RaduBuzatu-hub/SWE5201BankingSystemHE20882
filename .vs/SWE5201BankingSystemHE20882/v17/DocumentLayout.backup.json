@@ -1,0 +1,239 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\buzat\\source\\repos\\SWE5201BankingSystemHE20882\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B060203-0131-4690-9FF0-38038438E0D0}|SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882.csproj|c:\\users\\buzat\\source\\repos\\swe5201bankingsystemhe20882\\swe5201bankingsystemhe20882\\log-in.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B060203-0131-4690-9FF0-38038438E0D0}|SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882.csproj|solutionrelative:swe5201bankingsystemhe20882\\log-in.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B060203-0131-4690-9FF0-38038438E0D0}|SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882.csproj|c:\\users\\buzat\\source\\repos\\swe5201bankingsystemhe20882\\swe5201bankingsystemhe20882\\log-in.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B060203-0131-4690-9FF0-38038438E0D0}|SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882.csproj|solutionrelative:swe5201bankingsystemhe20882\\log-in.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B060203-0131-4690-9FF0-38038438E0D0}|SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882.csproj|C:\\Users\\buzat\\source\\repos\\SWE5201BankingSystemHE20882\\swe5201bankingsystemhe20882\\registerstaffform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B060203-0131-4690-9FF0-38038438E0D0}|SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882.csproj|solutionrelative:swe5201bankingsystemhe20882\\registerstaffform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B060203-0131-4690-9FF0-38038438E0D0}|SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882.csproj|C:\\Users\\buzat\\source\\repos\\SWE5201BankingSystemHE20882\\swe5201bankingsystemhe20882\\addcustomerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B060203-0131-4690-9FF0-38038438E0D0}|SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882.csproj|solutionrelative:swe5201bankingsystemhe20882\\addcustomerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B060203-0131-4690-9FF0-38038438E0D0}|SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882.csproj|c:\\users\\buzat\\source\\repos\\swe5201bankingsystemhe20882\\swe5201bankingsystemhe20882\\registerstaffform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B060203-0131-4690-9FF0-38038438E0D0}|SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882.csproj|solutionrelative:swe5201bankingsystemhe20882\\registerstaffform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B060203-0131-4690-9FF0-38038438E0D0}|SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882.csproj|c:\\users\\buzat\\source\\repos\\swe5201bankingsystemhe20882\\swe5201bankingsystemhe20882\\swe5201bankingsystemhe20882.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2B060203-0131-4690-9FF0-38038438E0D0}|SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882.csproj|solutionrelative:swe5201bankingsystemhe20882\\swe5201bankingsystemhe20882.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B060203-0131-4690-9FF0-38038438E0D0}|SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882.csproj|c:\\users\\buzat\\source\\repos\\swe5201bankingsystemhe20882\\swe5201bankingsystemhe20882\\addcustomerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B060203-0131-4690-9FF0-38038438E0D0}|SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882.csproj|solutionrelative:swe5201bankingsystemhe20882\\addcustomerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B060203-0131-4690-9FF0-38038438E0D0}|SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882.csproj|c:\\users\\buzat\\source\\repos\\swe5201bankingsystemhe20882\\swe5201bankingsystemhe20882\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B060203-0131-4690-9FF0-38038438E0D0}|SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882.csproj|solutionrelative:swe5201bankingsystemhe20882\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B060203-0131-4690-9FF0-38038438E0D0}|SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882.csproj|c:\\users\\buzat\\source\\repos\\swe5201bankingsystemhe20882\\swe5201bankingsystemhe20882\\mainprogram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B060203-0131-4690-9FF0-38038438E0D0}|SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882.csproj|solutionrelative:swe5201bankingsystemhe20882\\mainprogram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B060203-0131-4690-9FF0-38038438E0D0}|SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882.csproj|c:\\users\\buzat\\source\\repos\\swe5201bankingsystemhe20882\\swe5201bankingsystemhe20882\\log-in.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B060203-0131-4690-9FF0-38038438E0D0}|SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882.csproj|solutionrelative:swe5201bankingsystemhe20882\\log-in.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B060203-0131-4690-9FF0-38038438E0D0}|SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882.csproj|C:\\Users\\buzat\\source\\repos\\SWE5201BankingSystemHE20882\\swe5201bankingsystemhe20882\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B060203-0131-4690-9FF0-38038438E0D0}|SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882.csproj|solutionrelative:swe5201bankingsystemhe20882\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B060203-0131-4690-9FF0-38038438E0D0}|SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882.csproj|c:\\users\\buzat\\source\\repos\\swe5201bankingsystemhe20882\\swe5201bankingsystemhe20882\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B060203-0131-4690-9FF0-38038438E0D0}|SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882.csproj|solutionrelative:swe5201bankingsystemhe20882\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B060203-0131-4690-9FF0-38038438E0D0}|SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882.csproj|c:\\users\\buzat\\source\\repos\\swe5201bankingsystemhe20882\\swe5201bankingsystemhe20882\\addcustomerform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B060203-0131-4690-9FF0-38038438E0D0}|SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882.csproj|solutionrelative:swe5201bankingsystemhe20882\\addcustomerform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Log-In.cs",
+              "DocumentMoniker": "C:\\Users\\buzat\\source\\repos\\SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882\\Log-In.cs",
+              "RelativeDocumentMoniker": "SWE5201BankingSystemHE20882\\Log-In.cs",
+              "ToolTip": "C:\\Users\\buzat\\source\\repos\\SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882\\Log-In.cs",
+              "RelativeToolTip": "SWE5201BankingSystemHE20882\\Log-In.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAA6wC8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T23:32:10.062Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegisterStaffForm.cs",
+              "DocumentMoniker": "C:\\Users\\buzat\\source\\repos\\SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882\\RegisterStaffForm.cs",
+              "RelativeDocumentMoniker": "SWE5201BankingSystemHE20882\\RegisterStaffForm.cs",
+              "ToolTip": "C:\\Users\\buzat\\source\\repos\\SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882\\RegisterStaffForm.cs",
+              "RelativeToolTip": "SWE5201BankingSystemHE20882\\RegisterStaffForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T13:43:05.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AddCustomerForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\buzat\\source\\repos\\SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882\\AddCustomerForm.Designer.cs",
+              "RelativeDocumentMoniker": "SWE5201BankingSystemHE20882\\AddCustomerForm.Designer.cs",
+              "ToolTip": "C:\\Users\\buzat\\source\\repos\\SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882\\AddCustomerForm.Designer.cs",
+              "RelativeToolTip": "SWE5201BankingSystemHE20882\\AddCustomerForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T09:51:14.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddCustomerForm.cs",
+              "DocumentMoniker": "C:\\Users\\buzat\\source\\repos\\SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882\\AddCustomerForm.cs",
+              "RelativeDocumentMoniker": "SWE5201BankingSystemHE20882\\AddCustomerForm.cs",
+              "ToolTip": "C:\\Users\\buzat\\source\\repos\\SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882\\AddCustomerForm.cs",
+              "RelativeToolTip": "SWE5201BankingSystemHE20882\\AddCustomerForm.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAswF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T22:54:16.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\buzat\\source\\repos\\SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "SWE5201BankingSystemHE20882\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\buzat\\source\\repos\\SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882\\MainForm.Designer.cs",
+              "RelativeToolTip": "SWE5201BankingSystemHE20882\\MainForm.Designer.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T23:22:42.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\buzat\\source\\repos\\SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882\\MainForm.cs",
+              "RelativeDocumentMoniker": "SWE5201BankingSystemHE20882\\MainForm.cs",
+              "ToolTip": "C:\\Users\\buzat\\source\\repos\\SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882\\MainForm.cs",
+              "RelativeToolTip": "SWE5201BankingSystemHE20882\\MainForm.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAcwGQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T22:55:46.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Log-In.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\buzat\\source\\repos\\SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882\\Log-In.Designer.cs",
+              "RelativeDocumentMoniker": "SWE5201BankingSystemHE20882\\Log-In.Designer.cs",
+              "ToolTip": "C:\\Users\\buzat\\source\\repos\\SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882\\Log-In.Designer.cs",
+              "RelativeToolTip": "SWE5201BankingSystemHE20882\\Log-In.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T09:18:37.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SWE5201BankingSystemHE20882.csproj",
+              "DocumentMoniker": "C:\\Users\\buzat\\source\\repos\\SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882.csproj",
+              "RelativeDocumentMoniker": "SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882.csproj",
+              "ToolTip": "C:\\Users\\buzat\\source\\repos\\SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882.csproj",
+              "RelativeToolTip": "SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-25T23:41:40.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Log-In.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\buzat\\source\\repos\\SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882\\Log-In.cs",
+              "RelativeDocumentMoniker": "SWE5201BankingSystemHE20882\\Log-In.cs",
+              "ToolTip": "C:\\Users\\buzat\\source\\repos\\SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882\\Log-In.cs [Design]",
+              "RelativeToolTip": "SWE5201BankingSystemHE20882\\Log-In.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T23:21:01.767Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\buzat\\source\\repos\\SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882\\MainProgram\\Program.cs",
+              "RelativeDocumentMoniker": "SWE5201BankingSystemHE20882\\MainProgram\\Program.cs",
+              "ToolTip": "C:\\Users\\buzat\\source\\repos\\SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882\\MainProgram\\Program.cs",
+              "RelativeToolTip": "SWE5201BankingSystemHE20882\\MainProgram\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T16:58:00.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegisterStaffForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\buzat\\source\\repos\\SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882\\RegisterStaffForm.cs",
+              "RelativeDocumentMoniker": "SWE5201BankingSystemHE20882\\RegisterStaffForm.cs",
+              "ToolTip": "C:\\Users\\buzat\\source\\repos\\SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882\\RegisterStaffForm.cs [Design]",
+              "RelativeToolTip": "SWE5201BankingSystemHE20882\\RegisterStaffForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T13:41:20.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddCustomerForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\buzat\\source\\repos\\SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882\\AddCustomerForm.cs",
+              "RelativeDocumentMoniker": "SWE5201BankingSystemHE20882\\AddCustomerForm.cs",
+              "ToolTip": "C:\\Users\\buzat\\source\\repos\\SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882\\AddCustomerForm.cs [Design]",
+              "RelativeToolTip": "SWE5201BankingSystemHE20882\\AddCustomerForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T22:38:42.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\buzat\\source\\repos\\SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882\\MainForm.cs",
+              "RelativeDocumentMoniker": "SWE5201BankingSystemHE20882\\MainForm.cs",
+              "ToolTip": "C:\\Users\\buzat\\source\\repos\\SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882\\MainForm.cs [Design]",
+              "RelativeToolTip": "SWE5201BankingSystemHE20882\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T22:49:52.563Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
