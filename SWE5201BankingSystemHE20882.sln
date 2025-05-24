@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35806.99 d17.13
+VisualStudioVersion = 17.13.35806.99
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SWE5201BankingSystemHE20882", "SWE5201BankingSystemHE20882\SWE5201BankingSystemHE20882.csproj", "{2B060203-0131-4690-9FF0-38038438E0D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SWE5201BankingSystemHE20882.Tests", "SWE5201BankingSystemHE20882.Tests\SWE5201BankingSystemHE20882.Tests.csproj", "{54E85422-EC52-401E-B341-6BF548C4ED7D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{2B060203-0131-4690-9FF0-38038438E0D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2B060203-0131-4690-9FF0-38038438E0D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2B060203-0131-4690-9FF0-38038438E0D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54E85422-EC52-401E-B341-6BF548C4ED7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54E85422-EC52-401E-B341-6BF548C4ED7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54E85422-EC52-401E-B341-6BF548C4ED7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54E85422-EC52-401E-B341-6BF548C4ED7D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

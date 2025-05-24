@@ -1,16 +1,31 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <Compile Update="AddCustomerForm.cs">
+    <Compile Update="Forms\ATMs\AddATMForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="Log-In.cs">
+    <Compile Update="Forms\Customer\AddCustomerForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="MainForm.cs">
+    <Compile Update="Forms\Admin\AdminTransactionViewerForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="RegisterStaffForm.cs">
+    <Compile Update="Forms\Accounts\CreateAccountForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Customer\CustomerDashboardForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Log_In\Log-In.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Admin\MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Admin\ManageBankForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Customer\ModifyDetailsForm.cs">
       <SubType>Form</SubType>
     </Compile>
   </ItemGroup>

@@ -63,6 +63,36 @@ namespace SWE5201BankingSystemHE20882.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap BankingGoodBackground {
+            get {
+                object obj = ResourceManager.GetObject("BankingGoodBackground", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap BankingLogInScreen {
+            get {
+                object obj = ResourceManager.GetObject("BankingLogInScreen", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap BankingMainForm {
+            get {
+                object obj = ResourceManager.GetObject("BankingMainForm", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap BankLogo {
             get {
                 object obj = ResourceManager.GetObject("BankLogo", resourceCulture);
