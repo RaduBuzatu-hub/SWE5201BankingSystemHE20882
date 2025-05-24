@@ -1,4 +1,4 @@
-﻿// we use these to work with data and show windows
+// we use these to work with data and show windows
 using System;
 using System.Data;
 using System.Linq;

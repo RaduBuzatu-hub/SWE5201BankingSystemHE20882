@@ -1,4 +1,4 @@
-﻿
+
 namespace SWE5201BankingSystemHE20882
 {
     partial class AddCustomerForm
@@ -171,24 +171,29 @@ namespace SWE5201BankingSystemHE20882
             // 
             // btnSave
             // 
+            btnSave.BackColor = Color.Moccasin;
             btnSave.Location = new Point(168, 22);
             btnSave.Name = "btnSave";
             btnSave.Size = new Size(121, 49);
             btnSave.TabIndex = 7;
             btnSave.Text = "Save";
+            btnSave.UseVisualStyleBackColor = false;
             btnSave.Click += btnSave_Click;
             // 
             // btnCancel
             // 
+            btnCancel.BackColor = Color.Moccasin;
             btnCancel.Location = new Point(387, 22);
             btnCancel.Name = "btnCancel";
             btnCancel.Size = new Size(110, 49);
             btnCancel.TabIndex = 6;
             btnCancel.Text = "Cancel";
+            btnCancel.UseVisualStyleBackColor = false;
             btnCancel.Click += btnCancel_Click;
             // 
             // label9
             // 
+            label9.BackColor = Color.Moccasin;
             label9.Font = new Font("Arial Narrow", 36F, FontStyle.Bold);
             label9.Location = new Point(282, 32);
             label9.Name = "label9";
@@ -237,6 +242,7 @@ namespace SWE5201BankingSystemHE20882
             // 
             // groupBox1
             // 
+            groupBox1.BackColor = SystemColors.Info;
             groupBox1.Controls.Add(label12);
             groupBox1.Controls.Add(label1);
             groupBox1.Controls.Add(label5);
@@ -266,6 +272,7 @@ namespace SWE5201BankingSystemHE20882
             // 
             // groupBox2
             // 
+            groupBox2.BackColor = SystemColors.Info;
             groupBox2.Controls.Add(label13);
             groupBox2.Controls.Add(label8);
             groupBox2.Controls.Add(label7);
@@ -291,6 +298,7 @@ namespace SWE5201BankingSystemHE20882
             // 
             // groupBox3
             // 
+            groupBox3.BackColor = SystemColors.Info;
             groupBox3.Controls.Add(label14);
             groupBox3.Controls.Add(label10);
             groupBox3.Controls.Add(txtCustomerUsername);
@@ -314,6 +322,7 @@ namespace SWE5201BankingSystemHE20882
             // 
             // groupBox4
             // 
+            groupBox4.BackColor = SystemColors.Info;
             groupBox4.Controls.Add(label15);
             groupBox4.Controls.Add(btnSave);
             groupBox4.Controls.Add(btnCancel);

@@ -1,4 +1,4 @@
-﻿using System; // we use this for basic stuff like strings and events
+using System; // we use this for basic stuff like strings and events
 using System.Windows.Forms; // this is for showing the form and using buttons and textboxes
 using SWE5201BankingSystemHE20882.Services; // we use this to talk to the CustomerService class
 

@@ -1,4 +1,4 @@
-﻿namespace SWE5201BankingSystemHE20882
+namespace SWE5201BankingSystemHE20882
 {
     partial class CreateAccountForm
     {
@@ -44,6 +44,7 @@
             // label1
             // 
             label1.AutoSize = true;
+            label1.BackColor = Color.Moccasin;
             label1.Font = new Font("Arial Narrow", 27.75F, FontStyle.Bold, GraphicsUnit.Point, 0);
             label1.Location = new Point(171, 40);
             label1.Name = "label1";
@@ -120,22 +121,24 @@
             // 
             // btnCreate
             // 
+            btnCreate.BackColor = Color.Moccasin;
             btnCreate.Location = new Point(55, 292);
             btnCreate.Name = "btnCreate";
             btnCreate.Size = new Size(163, 37);
             btnCreate.TabIndex = 5;
             btnCreate.Text = "Add Account";
-            btnCreate.UseVisualStyleBackColor = true;
+            btnCreate.UseVisualStyleBackColor = false;
             btnCreate.Click += btnCreate_Click_1;
             // 
             // btnCancel
             // 
+            btnCancel.BackColor = Color.Moccasin;
             btnCancel.Location = new Point(253, 292);
             btnCancel.Name = "btnCancel";
             btnCancel.Size = new Size(187, 37);
             btnCancel.TabIndex = 4;
             btnCancel.Text = "Cancel";
-            btnCancel.UseVisualStyleBackColor = true;
+            btnCancel.UseVisualStyleBackColor = false;
             btnCancel.Click += btnCancel_Click;
             // 
             // label6
@@ -175,6 +178,7 @@
             // 
             // groupBox1
             // 
+            groupBox1.BackColor = SystemColors.Info;
             groupBox1.Controls.Add(label2);
             groupBox1.Controls.Add(txtBankBranch);
             groupBox1.Controls.Add(txtCustomerID);

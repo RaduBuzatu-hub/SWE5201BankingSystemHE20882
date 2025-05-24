@@ -57,6 +57,7 @@ namespace SWE5201BankingSystemHE20882
             // 
             // btnCustomerLogin
             // 
+            btnCustomerLogin.BackColor = Color.Moccasin;
             btnCustomerLogin.Font = new Font("Segoe UI Variable Display", 18F, FontStyle.Bold, GraphicsUnit.Point, 0);
             btnCustomerLogin.Location = new Point(799, 603);
             btnCustomerLogin.Margin = new Padding(2);
@@ -64,11 +65,12 @@ namespace SWE5201BankingSystemHE20882
             btnCustomerLogin.Size = new Size(247, 109);
             btnCustomerLogin.TabIndex = 4;
             btnCustomerLogin.Text = "Customer Login";
-            btnCustomerLogin.UseVisualStyleBackColor = true;
+            btnCustomerLogin.UseVisualStyleBackColor = false;
             btnCustomerLogin.Click += btnCustomerLogin_Click;
             // 
             // label1
             // 
+            label1.BackColor = Color.Moccasin;
             label1.Font = new Font("Segoe UI Variable Display", 18F, FontStyle.Bold, GraphicsUnit.Point, 0);
             label1.Location = new Point(506, 382);
             label1.Margin = new Padding(2, 0, 2, 0);
@@ -81,6 +83,7 @@ namespace SWE5201BankingSystemHE20882
             // 
             // lblPassword
             // 
+            lblPassword.BackColor = Color.Moccasin;
             lblPassword.Font = new Font("Segoe UI Variable Display", 18F, FontStyle.Bold, GraphicsUnit.Point, 0);
             lblPassword.Location = new Point(506, 490);
             lblPassword.Margin = new Padding(2, 0, 2, 0);
@@ -93,6 +96,7 @@ namespace SWE5201BankingSystemHE20882
             // 
             // btnBankStaffLogin
             // 
+            btnBankStaffLogin.BackColor = Color.Moccasin;
             btnBankStaffLogin.Font = new Font("Segoe UI Variable Display", 18F, FontStyle.Bold, GraphicsUnit.Point, 0);
             btnBankStaffLogin.Location = new Point(506, 603);
             btnBankStaffLogin.Margin = new Padding(2);
@@ -100,12 +104,13 @@ namespace SWE5201BankingSystemHE20882
             btnBankStaffLogin.Size = new Size(240, 109);
             btnBankStaffLogin.TabIndex = 9;
             btnBankStaffLogin.Text = "Admin Login";
-            btnBankStaffLogin.UseVisualStyleBackColor = true;
+            btnBankStaffLogin.UseVisualStyleBackColor = false;
             btnBankStaffLogin.Click += btnBankStaffLogin_Click;
             // 
             // label2
             // 
             label2.AutoSize = true;
+            label2.BackColor = Color.Moccasin;
             label2.Font = new Font("Arial Narrow", 36F, FontStyle.Bold, GraphicsUnit.Point, 0);
             label2.Location = new Point(678, 49);
             label2.Name = "label2";

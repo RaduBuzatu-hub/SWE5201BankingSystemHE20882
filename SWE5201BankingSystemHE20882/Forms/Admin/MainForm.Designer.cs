@@ -1,4 +1,4 @@
-﻿namespace SWE5201BankingSystemHE20882
+namespace SWE5201BankingSystemHE20882
 {
     partial class MainForm
     {
@@ -61,28 +61,31 @@
             // 
             // btnViewCustomers
             // 
+            btnViewCustomers.BackColor = Color.Moccasin;
             btnViewCustomers.Location = new Point(5, 50);
             btnViewCustomers.Margin = new Padding(2);
             btnViewCustomers.Name = "btnViewCustomers";
             btnViewCustomers.Size = new Size(191, 34);
             btnViewCustomers.TabIndex = 1;
             btnViewCustomers.Text = "View Customers";
-            btnViewCustomers.UseVisualStyleBackColor = true;
+            btnViewCustomers.UseVisualStyleBackColor = false;
             btnViewCustomers.Click += btnViewCustomers_Click;
             // 
             // btnAddCustomer
             // 
+            btnAddCustomer.BackColor = Color.Moccasin;
             btnAddCustomer.Location = new Point(5, 97);
             btnAddCustomer.Margin = new Padding(2);
             btnAddCustomer.Name = "btnAddCustomer";
             btnAddCustomer.Size = new Size(191, 34);
             btnAddCustomer.TabIndex = 2;
             btnAddCustomer.Text = "Add Customer";
-            btnAddCustomer.UseVisualStyleBackColor = true;
+            btnAddCustomer.UseVisualStyleBackColor = false;
             btnAddCustomer.Click += btnAddCustomer_Click;
             // 
             // btnLogout
             // 
+            btnLogout.BackColor = Color.Moccasin;
             btnLogout.BackgroundImageLayout = ImageLayout.Stretch;
             btnLogout.Location = new Point(581, 206);
             btnLogout.Margin = new Padding(2);
@@ -90,7 +93,7 @@
             btnLogout.Size = new Size(166, 34);
             btnLogout.TabIndex = 3;
             btnLogout.Text = "Log Out";
-            btnLogout.UseVisualStyleBackColor = true;
+            btnLogout.UseVisualStyleBackColor = false;
             btnLogout.Click += btnLogout_Click;
             // 
             // dataGridMain
@@ -106,65 +109,71 @@
             // 
             // btnDeleteCustomer
             // 
+            btnDeleteCustomer.BackColor = Color.Moccasin;
             btnDeleteCustomer.Location = new Point(6, 197);
             btnDeleteCustomer.Margin = new Padding(2);
             btnDeleteCustomer.Name = "btnDeleteCustomer";
             btnDeleteCustomer.Size = new Size(191, 34);
             btnDeleteCustomer.TabIndex = 5;
             btnDeleteCustomer.Text = "Delete Customer";
-            btnDeleteCustomer.UseVisualStyleBackColor = true;
+            btnDeleteCustomer.UseVisualStyleBackColor = false;
             btnDeleteCustomer.Click += btnDeleteCustomer_Click_1;
             // 
             // btnCreateAccount
             // 
+            btnCreateAccount.BackColor = Color.Moccasin;
             btnCreateAccount.Location = new Point(6, 114);
             btnCreateAccount.Margin = new Padding(2);
             btnCreateAccount.Name = "btnCreateAccount";
             btnCreateAccount.Size = new Size(191, 34);
             btnCreateAccount.TabIndex = 6;
             btnCreateAccount.Text = "Add Account";
-            btnCreateAccount.UseVisualStyleBackColor = true;
+            btnCreateAccount.UseVisualStyleBackColor = false;
             btnCreateAccount.Click += btnCreateAccount_Click_1;
             // 
             // button1
             // 
+            button1.BackColor = Color.Moccasin;
             button1.Location = new Point(6, 112);
             button1.Margin = new Padding(2);
             button1.Name = "button1";
             button1.Size = new Size(182, 34);
             button1.TabIndex = 7;
             button1.Text = "Bank Management";
-            button1.UseVisualStyleBackColor = true;
+            button1.UseVisualStyleBackColor = false;
             button1.Click += button1_Click;
             // 
             // btnViewAccounts
             // 
+            btnViewAccounts.BackColor = Color.Moccasin;
             btnViewAccounts.Location = new Point(5, 68);
             btnViewAccounts.Name = "btnViewAccounts";
             btnViewAccounts.Size = new Size(191, 32);
             btnViewAccounts.TabIndex = 8;
             btnViewAccounts.Text = "View Accounts";
-            btnViewAccounts.UseVisualStyleBackColor = true;
+            btnViewAccounts.UseVisualStyleBackColor = false;
             btnViewAccounts.Click += btnViewAccounts_Click;
             // 
             // btnViewBanks
             // 
+            btnViewBanks.BackColor = Color.Moccasin;
             btnViewBanks.Location = new Point(6, 64);
             btnViewBanks.Name = "btnViewBanks";
             btnViewBanks.Size = new Size(182, 34);
             btnViewBanks.TabIndex = 9;
             btnViewBanks.Text = "View Banks";
-            btnViewBanks.UseVisualStyleBackColor = true;
+            btnViewBanks.UseVisualStyleBackColor = false;
             btnViewBanks.Click += btnViewBanks_Click;
             // 
             // btnModifyCustomerAccount
             // 
+            btnModifyCustomerAccount.BackColor = Color.Moccasin;
             btnModifyCustomerAccount.Location = new Point(6, 148);
             btnModifyCustomerAccount.Name = "btnModifyCustomerAccount";
             btnModifyCustomerAccount.Size = new Size(190, 34);
             btnModifyCustomerAccount.TabIndex = 10;
             btnModifyCustomerAccount.Text = "Edit Details";
-            btnModifyCustomerAccount.UseVisualStyleBackColor = true;
+            btnModifyCustomerAccount.UseVisualStyleBackColor = false;
             btnModifyCustomerAccount.Click += btnModifyCustomerAccount_Click;
             // 
             // label2
@@ -192,12 +201,13 @@
             // 
             // btnDeleteAccount
             // 
+            btnDeleteAccount.BackColor = Color.Moccasin;
             btnDeleteAccount.Location = new Point(5, 162);
             btnDeleteAccount.Name = "btnDeleteAccount";
             btnDeleteAccount.Size = new Size(191, 37);
             btnDeleteAccount.TabIndex = 13;
             btnDeleteAccount.Text = "Delete Account";
-            btnDeleteAccount.UseVisualStyleBackColor = true;
+            btnDeleteAccount.UseVisualStyleBackColor = false;
             btnDeleteAccount.Click += btnDeleteAccount_Click;
             // 
             // label4
@@ -213,6 +223,7 @@
             // 
             // groupBox1
             // 
+            groupBox1.BackColor = SystemColors.Info;
             groupBox1.Controls.Add(btnModifyCustomerAccount);
             groupBox1.Controls.Add(btnViewCustomers);
             groupBox1.Controls.Add(btnAddCustomer);
@@ -227,6 +238,7 @@
             // 
             // groupBox2
             // 
+            groupBox2.BackColor = SystemColors.Info;
             groupBox2.Controls.Add(label3);
             groupBox2.Controls.Add(btnViewAccounts);
             groupBox2.Controls.Add(btnCreateAccount);
@@ -239,6 +251,7 @@
             // 
             // groupBox3
             // 
+            groupBox3.BackColor = SystemColors.Info;
             groupBox3.Controls.Add(btnViewBanks);
             groupBox3.Controls.Add(button1);
             groupBox3.Controls.Add(label4);
@@ -250,6 +263,7 @@
             // 
             // groupBox4
             // 
+            groupBox4.BackColor = SystemColors.Info;
             groupBox4.Controls.Add(label5);
             groupBox4.Controls.Add(label6);
             groupBox4.Controls.Add(btnLogout);
@@ -285,6 +299,7 @@
             // 
             // groupBox5
             // 
+            groupBox5.BackColor = SystemColors.Info;
             groupBox5.Controls.Add(btnATMTransactions);
             groupBox5.Controls.Add(label8);
             groupBox5.Location = new Point(1048, 588);
@@ -295,12 +310,13 @@
             // 
             // btnATMTransactions
             // 
+            btnATMTransactions.BackColor = Color.Moccasin;
             btnATMTransactions.Location = new Point(30, 63);
             btnATMTransactions.Name = "btnATMTransactions";
             btnATMTransactions.Size = new Size(143, 34);
             btnATMTransactions.TabIndex = 20;
             btnATMTransactions.Text = "View Transactions";
-            btnATMTransactions.UseVisualStyleBackColor = true;
+            btnATMTransactions.UseVisualStyleBackColor = false;
             btnATMTransactions.Click += btnATMTransactions_Click;
             // 
             // label8
@@ -316,6 +332,7 @@
             // 
             // groupBox6
             // 
+            groupBox6.BackColor = SystemColors.Info;
             groupBox6.Controls.Add(btnDeleteATM);
             groupBox6.Controls.Add(btnAddATM);
             groupBox6.Controls.Add(btnViewATMs);
@@ -328,32 +345,35 @@
             // 
             // btnDeleteATM
             // 
+            btnDeleteATM.BackColor = Color.Moccasin;
             btnDeleteATM.Location = new Point(23, 161);
             btnDeleteATM.Name = "btnDeleteATM";
             btnDeleteATM.Size = new Size(149, 37);
             btnDeleteATM.TabIndex = 18;
             btnDeleteATM.Text = "Delete ATM";
-            btnDeleteATM.UseVisualStyleBackColor = true;
+            btnDeleteATM.UseVisualStyleBackColor = false;
             btnDeleteATM.Click += btnDeleteATM_Click;
             // 
             // btnAddATM
             // 
+            btnAddATM.BackColor = Color.Moccasin;
             btnAddATM.Location = new Point(23, 112);
             btnAddATM.Name = "btnAddATM";
             btnAddATM.Size = new Size(149, 34);
             btnAddATM.TabIndex = 17;
             btnAddATM.Text = "Add ATM";
-            btnAddATM.UseVisualStyleBackColor = true;
+            btnAddATM.UseVisualStyleBackColor = false;
             btnAddATM.Click += btnAddATM_Click;
             // 
             // btnViewATMs
             // 
+            btnViewATMs.BackColor = Color.Moccasin;
             btnViewATMs.Location = new Point(23, 64);
             btnViewATMs.Name = "btnViewATMs";
             btnViewATMs.Size = new Size(149, 34);
             btnViewATMs.TabIndex = 16;
             btnViewATMs.Text = "View ATM";
-            btnViewATMs.UseVisualStyleBackColor = true;
+            btnViewATMs.UseVisualStyleBackColor = false;
             btnViewATMs.Click += btnViewATMs_Click;
             // 
             // label7
@@ -370,6 +390,7 @@
             // label1
             // 
             label1.AutoSize = true;
+            label1.BackColor = Color.Moccasin;
             label1.Font = new Font("Arial Narrow", 36F, FontStyle.Bold);
             label1.Location = new Point(474, 114);
             label1.Name = "label1";

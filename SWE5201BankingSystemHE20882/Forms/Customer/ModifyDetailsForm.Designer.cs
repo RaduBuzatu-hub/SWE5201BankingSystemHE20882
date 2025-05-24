@@ -1,4 +1,4 @@
-﻿namespace SWE5201BankingSystemHE20882
+namespace SWE5201BankingSystemHE20882
 {
     partial class ModifyDetailsForm
     {
@@ -207,6 +207,7 @@
             // label9
             // 
             label9.AutoSize = true;
+            label9.BackColor = Color.Moccasin;
             label9.Font = new Font("Arial Narrow", 27.75F, FontStyle.Bold, GraphicsUnit.Point, 0);
             label9.Location = new Point(227, 46);
             label9.Name = "label9";
@@ -290,32 +291,35 @@
             // 
             // btnSave
             // 
+            btnSave.BackColor = Color.Moccasin;
             btnSave.Location = new Point(24, 47);
             btnSave.Name = "btnSave";
             btnSave.Size = new Size(215, 35);
             btnSave.TabIndex = 25;
             btnSave.Text = "Save";
-            btnSave.UseVisualStyleBackColor = true;
+            btnSave.UseVisualStyleBackColor = false;
             btnSave.Click += btnSave_Click;
             // 
             // btnCancel
             // 
+            btnCancel.BackColor = Color.Moccasin;
             btnCancel.Location = new Point(24, 88);
             btnCancel.Name = "btnCancel";
             btnCancel.Size = new Size(215, 35);
             btnCancel.TabIndex = 26;
             btnCancel.Text = "Cancel";
-            btnCancel.UseVisualStyleBackColor = true;
+            btnCancel.UseVisualStyleBackColor = false;
             btnCancel.Click += btnCancel_Click;
             // 
             // btnFindCustomer
             // 
+            btnFindCustomer.BackColor = Color.Moccasin;
             btnFindCustomer.Location = new Point(65, 93);
             btnFindCustomer.Name = "btnFindCustomer";
             btnFindCustomer.Size = new Size(117, 24);
             btnFindCustomer.TabIndex = 27;
             btnFindCustomer.Text = "Find Customer";
-            btnFindCustomer.UseVisualStyleBackColor = true;
+            btnFindCustomer.UseVisualStyleBackColor = false;
             btnFindCustomer.Click += btnFindCustomer_Click;
             // 
             // label15
@@ -432,6 +436,7 @@
             // 
             // groupBox1
             // 
+            groupBox1.BackColor = SystemColors.Info;
             groupBox1.Controls.Add(label10);
             groupBox1.Controls.Add(txtCustomerPassword);
             groupBox1.Controls.Add(txtFirstName);
@@ -461,6 +466,7 @@
             // 
             // groupBox2
             // 
+            groupBox2.BackColor = SystemColors.Info;
             groupBox2.Controls.Add(label11);
             groupBox2.Controls.Add(cmbAccountType);
             groupBox2.Controls.Add(label12);
@@ -476,6 +482,7 @@
             // 
             // groupBox3
             // 
+            groupBox3.BackColor = SystemColors.Info;
             groupBox3.Controls.Add(label17);
             groupBox3.Controls.Add(label18);
             groupBox3.Controls.Add(label19);
@@ -489,6 +496,7 @@
             // 
             // groupBox4
             // 
+            groupBox4.BackColor = SystemColors.Info;
             groupBox4.Controls.Add(btnCancel);
             groupBox4.Controls.Add(btnSave);
             groupBox4.Controls.Add(label20);
@@ -500,6 +508,7 @@
             // 
             // groupBox5
             // 
+            groupBox5.BackColor = SystemColors.Info;
             groupBox5.Controls.Add(label15);
             groupBox5.Controls.Add(btnFindCustomer);
             groupBox5.Controls.Add(txtCustomerID);

@@ -1,4 +1,4 @@
-﻿namespace SWE5201BankingSystemHE20882
+namespace SWE5201BankingSystemHE20882
 {
     partial class CustomerDashboardForm : Form
     {
@@ -59,6 +59,7 @@
             // label1
             // 
             label1.AutoSize = true;
+            label1.BackColor = Color.Moccasin;
             label1.Font = new Font("Segoe UI Variable Display", 27.75F, FontStyle.Bold, GraphicsUnit.Point, 0);
             label1.Location = new Point(576, 78);
             label1.Name = "label1";
@@ -68,6 +69,7 @@
             // 
             // groupBox1
             // 
+            groupBox1.BackColor = SystemColors.Info;
             groupBox1.Controls.Add(txtAccountStatus);
             groupBox1.Controls.Add(cmbAccountType);
             groupBox1.Controls.Add(label9);
@@ -204,6 +206,7 @@
             // 
             // groupBox2
             // 
+            groupBox2.BackColor = SystemColors.Info;
             groupBox2.Controls.Add(btnWithdraw);
             groupBox2.Controls.Add(btnDeposit);
             groupBox2.Controls.Add(txtAmount);
@@ -217,22 +220,24 @@
             // 
             // btnWithdraw
             // 
+            btnWithdraw.BackColor = Color.Moccasin;
             btnWithdraw.Location = new Point(516, 178);
             btnWithdraw.Name = "btnWithdraw";
             btnWithdraw.Size = new Size(126, 41);
             btnWithdraw.TabIndex = 8;
             btnWithdraw.Text = "Withdraw";
-            btnWithdraw.UseVisualStyleBackColor = true;
+            btnWithdraw.UseVisualStyleBackColor = false;
             btnWithdraw.Click += btnWithdraw_Click;
             // 
             // btnDeposit
             // 
+            btnDeposit.BackColor = Color.Moccasin;
             btnDeposit.Location = new Point(193, 178);
             btnDeposit.Name = "btnDeposit";
             btnDeposit.Size = new Size(127, 41);
             btnDeposit.TabIndex = 7;
             btnDeposit.Text = "Deposit";
-            btnDeposit.UseVisualStyleBackColor = true;
+            btnDeposit.UseVisualStyleBackColor = false;
             btnDeposit.Click += btnDeposit_Click;
             // 
             // txtAmount
@@ -264,6 +269,7 @@
             // 
             // groupBox3
             // 
+            groupBox3.BackColor = SystemColors.Info;
             groupBox3.Controls.Add(dgvTransactions);
             groupBox3.Controls.Add(label11);
             groupBox3.Location = new Point(383, 506);
@@ -292,6 +298,7 @@
             // 
             // groupBox4
             // 
+            groupBox4.BackColor = SystemColors.Info;
             groupBox4.Controls.Add(btnLogout);
             groupBox4.Controls.Add(label12);
             groupBox4.Location = new Point(1308, 210);
@@ -302,12 +309,13 @@
             // 
             // btnLogout
             // 
+            btnLogout.BackColor = Color.Moccasin;
             btnLogout.Location = new Point(81, 119);
             btnLogout.Name = "btnLogout";
             btnLogout.Size = new Size(113, 100);
             btnLogout.TabIndex = 1;
             btnLogout.Text = "Log out";
-            btnLogout.UseVisualStyleBackColor = true;
+            btnLogout.UseVisualStyleBackColor = false;
             btnLogout.Click += btnLogout_Click;
             // 
             // label12

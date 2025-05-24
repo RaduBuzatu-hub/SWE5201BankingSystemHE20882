@@ -1,4 +1,4 @@
-﻿using System;  // this is for basic stuff like string and events
+using System;  // this is for basic stuff like string and events
 using System.Windows.Forms;  // this lets us make windows and buttons and textboxes
 using SWE5201BankingSystemHE20882.Services;  // we use this to get the ATMService to save data
 

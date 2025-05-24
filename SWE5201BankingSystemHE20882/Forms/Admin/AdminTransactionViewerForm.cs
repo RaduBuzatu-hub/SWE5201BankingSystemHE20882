@@ -1,4 +1,4 @@
-﻿using System;                           // this gives us basic things like strings, numbers and errors
+using System;                           // this gives us basic things like strings, numbers and errors
 using System.Data;                      // we use this to work with DataTable to hold data
 using Microsoft.Data.SqlClient;        // used for talking to SQL Server (not used directly here)
 using System.Windows.Forms;            // we need this to build forms and UI stuff

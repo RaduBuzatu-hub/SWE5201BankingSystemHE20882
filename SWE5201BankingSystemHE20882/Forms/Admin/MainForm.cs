@@ -1,4 +1,4 @@
-﻿using System;                          // gives us basic stuff like string, int, etc.
+using System;                          // gives us basic stuff like string, int, etc.
 using System.Data;                     // helps work with tables and rows
 using System.Windows.Forms;           // this lets us make windows and buttons and forms
 using SWE5201BankingSystemHE20882.Services; // we use this to get access to our service classes like CustomerService

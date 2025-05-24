@@ -1,4 +1,4 @@
-﻿// we need these things for the form to work, to use data and to talk to the database
+// we need these things for the form to work, to use data and to talk to the database
 using System;
 using System.Data;
 using System.Windows.Forms;

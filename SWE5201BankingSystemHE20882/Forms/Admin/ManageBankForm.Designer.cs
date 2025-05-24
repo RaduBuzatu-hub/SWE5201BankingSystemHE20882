@@ -1,4 +1,4 @@
-﻿namespace SWE5201BankingSystemHE20882
+namespace SWE5201BankingSystemHE20882
 {
     partial class ManageBankForm
     {
@@ -52,12 +52,13 @@
             // 
             // btnAddBank
             // 
+            btnAddBank.BackColor = Color.Moccasin;
             btnAddBank.Location = new Point(19, 135);
             btnAddBank.Name = "btnAddBank";
             btnAddBank.Size = new Size(119, 34);
             btnAddBank.TabIndex = 2;
             btnAddBank.Text = "Add Bank";
-            btnAddBank.UseVisualStyleBackColor = true;
+            btnAddBank.UseVisualStyleBackColor = false;
             btnAddBank.Click += btnAddBank_Click;
             // 
             // label1
@@ -81,6 +82,7 @@
             // label3
             // 
             label3.AutoSize = true;
+            label3.BackColor = Color.Moccasin;
             label3.Font = new Font("Segoe UI Variable Display", 27.75F, FontStyle.Bold, GraphicsUnit.Point, 0);
             label3.Location = new Point(279, 18);
             label3.Name = "label3";
@@ -90,12 +92,13 @@
             // 
             // btnCancel
             // 
+            btnCancel.BackColor = Color.Moccasin;
             btnCancel.Location = new Point(152, 188);
             btnCancel.Name = "btnCancel";
             btnCancel.Size = new Size(119, 34);
             btnCancel.TabIndex = 6;
             btnCancel.Text = "Cancel";
-            btnCancel.UseVisualStyleBackColor = true;
+            btnCancel.UseVisualStyleBackColor = false;
             btnCancel.Click += btnCancel_Click;
             // 
             // dgvBanks
@@ -108,26 +111,29 @@
             // 
             // btnDeleteBank
             // 
+            btnDeleteBank.BackColor = Color.Moccasin;
             btnDeleteBank.Location = new Point(152, 135);
             btnDeleteBank.Name = "btnDeleteBank";
             btnDeleteBank.Size = new Size(119, 35);
             btnDeleteBank.TabIndex = 8;
             btnDeleteBank.Text = "Delete Bank";
-            btnDeleteBank.UseVisualStyleBackColor = true;
+            btnDeleteBank.UseVisualStyleBackColor = false;
             btnDeleteBank.Click += btnDeleteBank_Click;
             // 
             // btnDeleteBranch
             // 
+            btnDeleteBranch.BackColor = Color.Moccasin;
             btnDeleteBranch.Location = new Point(20, 188);
             btnDeleteBranch.Name = "btnDeleteBranch";
             btnDeleteBranch.Size = new Size(118, 34);
             btnDeleteBranch.TabIndex = 9;
             btnDeleteBranch.Text = "Delete Branch";
-            btnDeleteBranch.UseVisualStyleBackColor = true;
+            btnDeleteBranch.UseVisualStyleBackColor = false;
             btnDeleteBranch.Click += btnDeleteBranch_Click;
             // 
             // groupBox1
             // 
+            groupBox1.BackColor = SystemColors.Info;
             groupBox1.Controls.Add(label1);
             groupBox1.Controls.Add(btnDeleteBranch);
             groupBox1.Controls.Add(txtBankName);

@@ -1,4 +1,4 @@
-﻿namespace SWE5201BankingSystemHE20882
+namespace SWE5201BankingSystemHE20882
 {
     partial class AdminTransactionViewerForm
     {
@@ -84,26 +84,29 @@
             // 
             // btnSearch
             // 
+            btnSearch.BackColor = Color.Moccasin;
             btnSearch.Location = new Point(34, 171);
             btnSearch.Name = "btnSearch";
             btnSearch.Size = new Size(107, 42);
             btnSearch.TabIndex = 5;
             btnSearch.Text = "Search";
-            btnSearch.UseVisualStyleBackColor = true;
+            btnSearch.UseVisualStyleBackColor = false;
             btnSearch.Click += btnSearch_Click;
             // 
             // button2
             // 
+            button2.BackColor = Color.Moccasin;
             button2.Location = new Point(160, 171);
             button2.Name = "button2";
             button2.Size = new Size(110, 42);
             button2.TabIndex = 6;
             button2.Text = "Cancel";
-            button2.UseVisualStyleBackColor = true;
+            button2.UseVisualStyleBackColor = false;
             button2.Click += button2_Click;
             // 
             // groupBox1
             // 
+            groupBox1.BackColor = SystemColors.Info;
             groupBox1.Controls.Add(label3);
             groupBox1.Controls.Add(txtCustomerID);
             groupBox1.Controls.Add(button2);
@@ -129,6 +132,7 @@
             // 
             // groupBox2
             // 
+            groupBox2.BackColor = SystemColors.Info;
             groupBox2.Controls.Add(label4);
             groupBox2.Controls.Add(dgvTransactions);
             groupBox2.Location = new Point(345, 111);

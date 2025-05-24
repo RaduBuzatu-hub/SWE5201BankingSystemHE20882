@@ -1,4 +1,4 @@
-﻿namespace SWE5201BankingSystemHE20882
+namespace SWE5201BankingSystemHE20882
 {
     partial class AddATMForm
     {
@@ -42,6 +42,7 @@
             // 
             // groupBox1
             // 
+            groupBox1.BackColor = SystemColors.Info;
             groupBox1.Controls.Add(btnCancel);
             groupBox1.Controls.Add(btnAddATM);
             groupBox1.Controls.Add(txtBranchID);
@@ -62,22 +63,24 @@
             // 
             // btnCancel
             // 
+            btnCancel.BackColor = Color.Moccasin;
             btnCancel.Location = new Point(335, 198);
             btnCancel.Name = "btnCancel";
             btnCancel.Size = new Size(129, 43);
             btnCancel.TabIndex = 13;
             btnCancel.Text = "Cancel";
-            btnCancel.UseVisualStyleBackColor = true;
+            btnCancel.UseVisualStyleBackColor = false;
             btnCancel.Click += btnCancel_Click;
             // 
             // btnAddATM
             // 
+            btnAddATM.BackColor = Color.Moccasin;
             btnAddATM.Location = new Point(87, 198);
             btnAddATM.Name = "btnAddATM";
             btnAddATM.Size = new Size(121, 43);
             btnAddATM.TabIndex = 12;
             btnAddATM.Text = "Submit";
-            btnAddATM.UseVisualStyleBackColor = true;
+            btnAddATM.UseVisualStyleBackColor = false;
             btnAddATM.Click += btnAddATM_Click;
             // 
             // txtBranchID
@@ -166,6 +169,7 @@
             // label1
             // 
             label1.AutoSize = true;
+            label1.BackColor = Color.Moccasin;
             label1.Font = new Font("Segoe UI Variable Display", 27.75F, FontStyle.Bold, GraphicsUnit.Point, 0);
             label1.Location = new Point(181, 30);
             label1.Margin = new Padding(2, 0, 2, 0);

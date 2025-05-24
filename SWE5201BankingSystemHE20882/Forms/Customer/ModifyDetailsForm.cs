@@ -1,4 +1,4 @@
-﻿using System; // lets us use stuff like string, int, exceptions
+using System; // lets us use stuff like string, int, exceptions
 using System.Windows.Forms; // this is for buttons, textboxes, forms
 using SWE5201BankingSystemHE20882.Services; // this gives us access to service classes
 

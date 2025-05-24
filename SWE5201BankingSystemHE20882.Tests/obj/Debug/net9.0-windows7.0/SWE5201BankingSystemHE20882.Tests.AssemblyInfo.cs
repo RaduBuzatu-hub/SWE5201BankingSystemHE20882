@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SWE5201BankingSystemHE20882.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a9545e68c94d65032dbe53b4cf4a1e0c6589eb7b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8bd681a946325d29fc78c748eb803db3ed7271e8")]
 [assembly: System.Reflection.AssemblyProductAttribute("SWE5201BankingSystemHE20882.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SWE5201BankingSystemHE20882.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
