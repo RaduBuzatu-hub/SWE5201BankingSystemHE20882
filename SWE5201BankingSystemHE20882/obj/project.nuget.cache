@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ai69+T7Y5ag=",
+  "dgSpecHash": "oQGfLK/kPD0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\buzat\\source\\repos\\SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882.csproj",
+  "projectFilePath": "C:\\Users\\buzat\\Documents\\froggymain\\SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\buzat\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\buzat\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

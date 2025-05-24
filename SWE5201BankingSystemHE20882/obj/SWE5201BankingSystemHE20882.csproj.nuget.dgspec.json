@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\buzat\\source\\repos\\SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882.csproj": {}
+    "C:\\Users\\buzat\\Documents\\froggymain\\SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882.csproj": {}
   },
   "projects": {
-    "C:\\Users\\buzat\\source\\repos\\SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882.csproj": {
+    "C:\\Users\\buzat\\Documents\\froggymain\\SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\buzat\\source\\repos\\SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882.csproj",
+        "projectUniqueName": "C:\\Users\\buzat\\Documents\\froggymain\\SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882.csproj",
         "projectName": "SWE5201BankingSystemHE20882",
-        "projectPath": "C:\\Users\\buzat\\source\\repos\\SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882.csproj",
+        "projectPath": "C:\\Users\\buzat\\Documents\\froggymain\\SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882.csproj",
         "packagesPath": "C:\\Users\\buzat\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\buzat\\source\\repos\\SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882\\obj\\",
+        "outputPath": "C:\\Users\\buzat\\Documents\\froggymain\\SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

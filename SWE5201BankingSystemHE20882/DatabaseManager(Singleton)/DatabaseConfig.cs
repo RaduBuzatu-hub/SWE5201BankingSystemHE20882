@@ -1,4 +1,4 @@
-﻿// This line means we are using some basic tools from C#
+// This line means we are using some basic tools from C#
 // like working with text and collections
 using System;
 using System.Collections.Generic;
@@ -17,6 +17,6 @@ namespace SWE5201BankingSystemHE20882.Services
         // it use 'readonly' so the string can’t be changed once program start
         // Connection string tells program where the database is and how to connect to it
         public static readonly string ConnectionString =
-            "Data Source=localhost;Initial Catalog=BankingDB;Integrated Security=True;TrustServerCertificate=True;";
+            "Data Source=localhost\\SQLEXPRESS;Initial Catalog=BankingDB;Integrated Security=True;TrustServerCertificate=True;";
     }
 }

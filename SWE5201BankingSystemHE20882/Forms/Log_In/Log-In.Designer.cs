@@ -1,4 +1,4 @@
-﻿namespace SWE5201BankingSystemHE20882
+namespace SWE5201BankingSystemHE20882
 {
     partial class Log_In
     {

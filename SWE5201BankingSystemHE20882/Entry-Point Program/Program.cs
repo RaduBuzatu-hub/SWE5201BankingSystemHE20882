@@ -14,9 +14,6 @@ namespace SWE5201BankingSystemHE20882.MainProgram
             // we create a login form and call it loginForm
             Log_In loginForm = new Log_In();
 
-            // this makes the form take up the whole screen
-            loginForm.WindowState = FormWindowState.Maximized;
-
             // this makes the form stay on top of other windows
             loginForm.TopMost = true;
 

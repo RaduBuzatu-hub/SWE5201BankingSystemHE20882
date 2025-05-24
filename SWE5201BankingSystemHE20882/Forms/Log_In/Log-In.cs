@@ -1,4 +1,4 @@
-﻿using System;                         // this gives us basic stuff like string and int
+using System;                         // this gives us basic stuff like string and int
 using System.Windows.Forms;           // this helps us make buttons, textboxes and forms
 using SWE5201BankingSystemHE20882.Services; // this brings in the AuthService class for logging in
 
@@ -31,7 +31,6 @@ namespace SWE5201BankingSystemHE20882
 
                 using (MainForm dashboard = new MainForm()) // make new dashboard for staff
                 {
-                    dashboard.WindowState = FormWindowState.Maximized; // make it big screen
                     dashboard.ShowDialog(); // open it as a modal window (they can't go back)
                 }
 
@@ -65,7 +64,6 @@ namespace SWE5201BankingSystemHE20882
                 {
                     MessageBox.Show("Login successful!", "Success"); // say login worked
                     CustomerDashboardForm dashboard = new CustomerDashboardForm(customerId.Value); // make the dashboard and give it customer ID
-                    dashboard.WindowState = FormWindowState.Maximized; // make it full screen
                     dashboard.Show(); // show the dashboard
                     this.Hide();      // hide this login screen
                 }
