@@ -119,7 +119,6 @@ namespace SWE5201BankingSystemHE20882
             }
         }
 
-        // this was maybe made by designer, not used for now
         private void label11_Click(object sender, EventArgs e)
         {
             // nothing here

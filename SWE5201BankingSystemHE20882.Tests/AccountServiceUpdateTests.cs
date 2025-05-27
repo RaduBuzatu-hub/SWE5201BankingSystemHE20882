@@ -1,4 +1,4 @@
-﻿using SWE5201BankingSystemHE20882.Services;
+using SWE5201BankingSystemHE20882.Services;
 using Microsoft.Data.SqlClient;
 
 [TestClass]

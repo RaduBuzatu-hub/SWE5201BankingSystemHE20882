@@ -60,7 +60,7 @@ namespace SWE5201BankingSystemHE20882.Services
                 }
 
                 // Step 5: Let other parts know transaction is done
-                OnTransactionRecorded.Invoke($"{type} of £{amount}", timestamp); // show message if someone is listening
+                OnTransactionRecorded.Invoke($"{type} of Â£{amount}", timestamp); // show message if someone is listening
 
                 return true; // say everything was ok
             }

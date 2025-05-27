@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SWE5201BankingSystemHE20882")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8bd681a946325d29fc78c748eb803db3ed7271e8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c41495ce9114f03b01e59e2cabd0bdff96e07c8f")]
 [assembly: System.Reflection.AssemblyProductAttribute("SWE5201BankingSystemHE20882")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SWE5201BankingSystemHE20882")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

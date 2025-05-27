@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SWE5201BankingSystemHE20882.Services.AccountService" Collapsed="true">
+    <Position X="6.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAIRAAAAAAAAAAAABAAAQAAAAA=</HashCode>
+      <FileName>ProgramServices\AccountService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SWE5201BankingSystemHE20882.Services.ATMService" Collapsed="true">
+    <Position X="1" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQAAACBAAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ProgramServices\ATMService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SWE5201BankingSystemHE20882.Services.AuthService" Collapsed="true">
+    <Position X="2.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>ProgramServices\AuthService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SWE5201BankingSystemHE20882.Services.CustomerService" Collapsed="true">
+    <Position X="12.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAQAAAAAAAAAAEAAAACAAAAAgIAAEAAAAAAA=</HashCode>
+      <FileName>ProgramServices\CustomerService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SWE5201BankingSystemHE20882.Services.TransactionService" Collapsed="true">
+    <Position X="12.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>ProgramServices\TransactionService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SWE5201BankingSystemHE20882.Services.DatabaseManager" Collapsed="true">
+    <Position X="4.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAABAAAAIQAAAABAAAAA=</HashCode>
+      <FileName>DatabaseManager(Singleton)\DatabaseManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SWE5201BankingSystemHE20882.Services.DatabaseConfig" Collapsed="true">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>DatabaseManager(Singleton)\DatabaseConfig.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SWE5201BankingSystemHE20882.CreateAccountForm" Collapsed="true">
+    <Position X="4.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAgAQARCAAAJEAAAGAgEAaAAAAgAEAACAAAAAAAIA=</HashCode>
+      <FileName>Forms\Accounts\CreateAccountForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SWE5201BankingSystemHE20882.AdminTransactionViewerForm" Collapsed="true">
+    <Position X="6.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAACAAABAgAACAAABCAAAQAAEgACAAAAAAEAI=</HashCode>
+      <FileName>Forms\Admin\AdminTransactionViewerForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SWE5201BankingSystemHE20882.MainForm">
+    <Position X="10.25" Y="4" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAEgsCwYADoADJQAAESAEAQLAAAIAAEAAWQABCAAMAA=</HashCode>
+      <FileName>Forms\Admin\MainForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SWE5201BankingSystemHE20882.ManageBankForm" Collapsed="true">
+    <Position X="2.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEACABABCAAAJEAAACCAEACAIAAABAAACAAAQABAIA=</HashCode>
+      <FileName>Forms\Admin\ManageBankForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SWE5201BankingSystemHE20882.AddATMForm" Collapsed="true">
+    <Position X="1.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAQQACAAABEAAACAiEACAAAAAAAQACQABAAgAAA=</HashCode>
+      <FileName>Forms\ATMs\AddATMForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SWE5201BankingSystemHE20882.AddCustomerForm" Collapsed="true">
+    <Position X="4.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>8wCAQgAABCACABEAAACACEAKAADAAJggACABAAIAAAA=</HashCode>
+      <FileName>Forms\Customer\AddCustomerForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SWE5201BankingSystemHE20882.CustomerDashboardForm" Collapsed="true">
+    <Position X="10.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>cDKIAIQAICAAALFAAACAACASAABAgIAAACAAACAAUAA=</HashCode>
+      <FileName>Forms\Customer\CustomerDashboardForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SWE5201BankingSystemHE20882.ModifyDetailsForm" Collapsed="true">
+    <Position X="4.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/wOIQoAAACACiBEAAACIAEICAADAgJkgAKISCAIAErA=</HashCode>
+      <FileName>Forms\Customer\ModifyDetailsForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SWE5201BankingSystemHE20882.Log_In" Collapsed="true">
+    <Position X="7" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgACARAQCAgABAAAACAgAAiAAAEAAAAAhAAAAAAAAI=</HashCode>
+      <FileName>Forms\Log_In\Log-In.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Delegate Name="SWE5201BankingSystemHE20882.Services.TransactionEventHandler" Collapsed="true">
+    <Position X="1" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ProgramServices\TransactionService.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

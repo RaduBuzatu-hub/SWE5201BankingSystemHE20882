@@ -24,14 +24,19 @@ namespace SWE5201BankingSystemHE20882
             _customerId = customerId;
 
             // this will show a message when a transaction happens
-            transactionService.OnTransactionRecorded += TransactionService_OnTransactionRecorded;
+            transactionService.OnTransactionRecorded += (message, timestamp) =>
+            {
+                MessageBox.Show($"Transaction Log: {message} at {timestamp}", "Transaction Recorded");
+            };
+
+            // transaction log shown in console for debugging
+            transactionService.OnTransactionRecorded += (msg, time) =>
+            {
+                Console.WriteLine($"[DEBUG] {time} -> {msg}");
+            };
+
         }
 
-        // when transaction happens this will pop up a message
-        private void TransactionService_OnTransactionRecorded(string message, DateTime timestamp)
-        {
-            MessageBox.Show($"Transaction Log: {message} at {timestamp}", "Transaction Recorded");
-        }
 
         // when form first loads we auto select first account type and load data
         private void CustomerDashboardForm_Load(object sender, EventArgs e)
