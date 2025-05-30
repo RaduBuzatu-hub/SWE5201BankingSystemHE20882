@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\buzat\\Documents\\froggymain\\SWE5201BankingSystemHE20882\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2B060203-0131-4690-9FF0-38038438E0D0}|SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882.csproj|c:\\users\\buzat\\documents\\froggymain\\swe5201bankingsystemhe20882\\swe5201bankingsystemhe20882\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{2B060203-0131-4690-9FF0-38038438E0D0}|SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882.csproj|solutionrelative:swe5201bankingsystemhe20882\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2B060203-0131-4690-9FF0-38038438E0D0}|SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882.csproj|c:\\users\\buzat\\documents\\froggymain\\swe5201bankingsystemhe20882\\swe5201bankingsystemhe20882\\programservices\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B060203-0131-4690-9FF0-38038438E0D0}|SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882.csproj|solutionrelative:swe5201bankingsystemhe20882\\programservices\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -79,10 +83,6 @@
       "RelativeMoniker": "D:0:0:{2B060203-0131-4690-9FF0-38038438E0D0}|SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882.csproj|solutionrelative:swe5201bankingsystemhe20882\\forms\\log_in\\log-in.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B060203-0131-4690-9FF0-38038438E0D0}|SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882.csproj|c:\\users\\buzat\\documents\\froggymain\\swe5201bankingsystemhe20882\\swe5201bankingsystemhe20882\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
-      "RelativeMoniker": "D:0:0:{2B060203-0131-4690-9FF0-38038438E0D0}|SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882.csproj|solutionrelative:swe5201bankingsystemhe20882\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2B060203-0131-4690-9FF0-38038438E0D0}|SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882.csproj|c:\\users\\buzat\\documents\\froggymain\\swe5201bankingsystemhe20882\\swe5201bankingsystemhe20882\\forms\\admin\\admintransactionviewerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B060203-0131-4690-9FF0-38038438E0D0}|SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882.csproj|solutionrelative:swe5201bankingsystemhe20882\\forms\\admin\\admintransactionviewerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -137,7 +137,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -149,20 +149,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AddATMForm.cs",
-              "DocumentMoniker": "C:\\Users\\buzat\\Documents\\froggymain\\SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882\\Forms\\ATMs\\AddATMForm.cs",
-              "RelativeDocumentMoniker": "SWE5201BankingSystemHE20882\\Forms\\ATMs\\AddATMForm.cs",
-              "ToolTip": "C:\\Users\\buzat\\Documents\\froggymain\\SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882\\Forms\\ATMs\\AddATMForm.cs",
-              "RelativeToolTip": "SWE5201BankingSystemHE20882\\Forms\\ATMs\\AddATMForm.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAmwE0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T12:03:51.47Z",
+              "DocumentIndex": 0,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "C:\\Users\\buzat\\Documents\\froggymain\\SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "SWE5201BankingSystemHE20882\\ClassDiagram1.cd",
+              "ToolTip": "C:\\Users\\buzat\\Documents\\froggymain\\SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882\\ClassDiagram1.cd",
+              "RelativeToolTip": "SWE5201BankingSystemHE20882\\ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2025-05-29T17:15:59.91Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "ManageBankForm.cs",
               "DocumentMoniker": "C:\\Users\\buzat\\Documents\\froggymain\\SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882\\Forms\\Admin\\ManageBankForm.cs",
               "RelativeDocumentMoniker": "SWE5201BankingSystemHE20882\\Forms\\Admin\\ManageBankForm.cs",
@@ -175,7 +174,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "CreateAccountForm.cs",
               "DocumentMoniker": "C:\\Users\\buzat\\Documents\\froggymain\\SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882\\Forms\\Accounts\\CreateAccountForm.cs",
               "RelativeDocumentMoniker": "SWE5201BankingSystemHE20882\\Forms\\Accounts\\CreateAccountForm.cs",
@@ -188,7 +187,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "ATMService.cs",
               "DocumentMoniker": "C:\\Users\\buzat\\Documents\\froggymain\\SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882\\ProgramServices\\ATMService.cs",
               "RelativeDocumentMoniker": "SWE5201BankingSystemHE20882\\ProgramServices\\ATMService.cs",
@@ -201,31 +200,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CreateAccountForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\buzat\\Documents\\froggymain\\SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882\\Forms\\Accounts\\CreateAccountForm.cs",
-              "RelativeDocumentMoniker": "SWE5201BankingSystemHE20882\\Forms\\Accounts\\CreateAccountForm.cs",
-              "ToolTip": "C:\\Users\\buzat\\Documents\\froggymain\\SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882\\Forms\\Accounts\\CreateAccountForm.cs [Design]",
-              "RelativeToolTip": "SWE5201BankingSystemHE20882\\Forms\\Accounts\\CreateAccountForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-24T06:11:25.903Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "MainForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\buzat\\Documents\\froggymain\\SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882\\Forms\\Admin\\MainForm.cs",
-              "RelativeDocumentMoniker": "SWE5201BankingSystemHE20882\\Forms\\Admin\\MainForm.cs",
-              "ToolTip": "C:\\Users\\buzat\\Documents\\froggymain\\SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882\\Forms\\Admin\\MainForm.cs [Design]",
-              "RelativeToolTip": "SWE5201BankingSystemHE20882\\Forms\\Admin\\MainForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-24T06:09:06.28Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
               "Title": "MainForm.cs",
               "DocumentMoniker": "C:\\Users\\buzat\\Documents\\froggymain\\SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882\\Forms\\Admin\\MainForm.cs",
               "RelativeDocumentMoniker": "SWE5201BankingSystemHE20882\\Forms\\Admin\\MainForm.cs",
@@ -233,24 +208,11 @@
               "RelativeToolTip": "SWE5201BankingSystemHE20882\\Forms\\Admin\\MainForm.cs",
               "ViewState": "AgIAAHIAAAAAAAAAAAAAAKYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T21:45:56.073Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-25T21:45:56.073Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "AddCustomerForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\buzat\\Documents\\froggymain\\SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882\\Forms\\Customer\\AddCustomerForm.cs",
-              "RelativeDocumentMoniker": "SWE5201BankingSystemHE20882\\Forms\\Customer\\AddCustomerForm.cs",
-              "ToolTip": "C:\\Users\\buzat\\Documents\\froggymain\\SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882\\Forms\\Customer\\AddCustomerForm.cs [Design]",
-              "RelativeToolTip": "SWE5201BankingSystemHE20882\\Forms\\Customer\\AddCustomerForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-24T06:12:46.788Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "AddCustomerForm.cs",
               "DocumentMoniker": "C:\\Users\\buzat\\Documents\\froggymain\\SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882\\Forms\\Customer\\AddCustomerForm.cs",
               "RelativeDocumentMoniker": "SWE5201BankingSystemHE20882\\Forms\\Customer\\AddCustomerForm.cs",
@@ -258,12 +220,11 @@
               "RelativeToolTip": "SWE5201BankingSystemHE20882\\Forms\\Customer\\AddCustomerForm.cs",
               "ViewState": "AgIAAEYAAAAAAAAAAAAcwH8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T11:39:16.688Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-26T11:39:16.688Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "TransactionService.cs",
               "DocumentMoniker": "C:\\Users\\buzat\\Documents\\froggymain\\SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882\\ProgramServices\\TransactionService.cs",
               "RelativeDocumentMoniker": "SWE5201BankingSystemHE20882\\ProgramServices\\TransactionService.cs",
@@ -276,7 +237,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "AuthService.cs",
               "DocumentMoniker": "C:\\Users\\buzat\\Documents\\froggymain\\SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882\\ProgramServices\\AuthService.cs",
               "RelativeDocumentMoniker": "SWE5201BankingSystemHE20882\\ProgramServices\\AuthService.cs",
@@ -289,7 +250,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "AccountService.cs",
               "DocumentMoniker": "C:\\Users\\buzat\\Documents\\froggymain\\SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882\\ProgramServices\\AccountService.cs",
               "RelativeDocumentMoniker": "SWE5201BankingSystemHE20882\\ProgramServices\\AccountService.cs",
@@ -302,7 +263,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "DatabaseManager.cs",
               "DocumentMoniker": "C:\\Users\\buzat\\Documents\\froggymain\\SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882\\DatabaseManager(Singleton)\\DatabaseManager.cs",
               "RelativeDocumentMoniker": "SWE5201BankingSystemHE20882\\DatabaseManager(Singleton)\\DatabaseManager.cs",
@@ -315,31 +276,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AddATMForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\buzat\\Documents\\froggymain\\SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882\\Forms\\ATMs\\AddATMForm.cs",
-              "RelativeDocumentMoniker": "SWE5201BankingSystemHE20882\\Forms\\ATMs\\AddATMForm.cs",
-              "ToolTip": "C:\\Users\\buzat\\Documents\\froggymain\\SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882\\Forms\\ATMs\\AddATMForm.cs [Design]",
-              "RelativeToolTip": "SWE5201BankingSystemHE20882\\Forms\\ATMs\\AddATMForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-24T06:12:31.369Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ManageBankForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\buzat\\Documents\\froggymain\\SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882\\Forms\\Admin\\ManageBankForm.cs",
-              "RelativeDocumentMoniker": "SWE5201BankingSystemHE20882\\Forms\\Admin\\ManageBankForm.cs",
-              "ToolTip": "C:\\Users\\buzat\\Documents\\froggymain\\SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882\\Forms\\Admin\\ManageBankForm.cs [Design]",
-              "RelativeToolTip": "SWE5201BankingSystemHE20882\\Forms\\Admin\\ManageBankForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-24T06:12:07.864Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "CustomerService.cs",
               "DocumentMoniker": "C:\\Users\\buzat\\Documents\\froggymain\\SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882\\ProgramServices\\CustomerService.cs",
               "RelativeDocumentMoniker": "SWE5201BankingSystemHE20882\\ProgramServices\\CustomerService.cs",
@@ -361,6 +298,19 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-25T19:01:47.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddATMForm.cs",
+              "DocumentMoniker": "C:\\Users\\buzat\\Documents\\froggymain\\SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882\\Forms\\ATMs\\AddATMForm.cs",
+              "RelativeDocumentMoniker": "SWE5201BankingSystemHE20882\\Forms\\ATMs\\AddATMForm.cs",
+              "ToolTip": "C:\\Users\\buzat\\Documents\\froggymain\\SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882\\Forms\\ATMs\\AddATMForm.cs",
+              "RelativeToolTip": "SWE5201BankingSystemHE20882\\Forms\\ATMs\\AddATMForm.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAmwE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T12:03:51.47Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -389,7 +339,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "BankService.cs",
               "DocumentMoniker": "C:\\Users\\buzat\\Documents\\froggymain\\SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882\\ProgramServices\\BankService.cs",
               "RelativeDocumentMoniker": "SWE5201BankingSystemHE20882\\ProgramServices\\BankService.cs",
@@ -402,7 +352,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "Log-In.cs",
               "DocumentMoniker": "C:\\Users\\buzat\\Documents\\froggymain\\SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882\\Forms\\Log_In\\Log-In.cs",
               "RelativeDocumentMoniker": "SWE5201BankingSystemHE20882\\Forms\\Log_In\\Log-In.cs",
@@ -415,17 +365,6 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "ClassDiagram1.cd",
-              "DocumentMoniker": "C:\\Users\\buzat\\Documents\\froggymain\\SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882\\ClassDiagram1.cd",
-              "RelativeDocumentMoniker": "SWE5201BankingSystemHE20882\\ClassDiagram1.cd",
-              "ToolTip": "C:\\Users\\buzat\\Documents\\froggymain\\SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882\\ClassDiagram1.cd",
-              "RelativeToolTip": "SWE5201BankingSystemHE20882\\ClassDiagram1.cd",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
-              "WhenOpened": "2025-05-26T08:51:33.73Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 29,
               "Title": "DatabaseConfig.cs",
               "DocumentMoniker": "C:\\Users\\buzat\\Documents\\froggymain\\SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882\\DatabaseManager(Singleton)\\DatabaseConfig.cs",
@@ -434,7 +373,8 @@
               "RelativeToolTip": "SWE5201BankingSystemHE20882\\DatabaseManager(Singleton)\\DatabaseConfig.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-24T05:29:35.726Z"
+              "WhenOpened": "2025-05-24T05:29:35.726Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -484,7 +424,8 @@
               "RelativeToolTip": "SWE5201BankingSystemHE20882\\Entry-Point Program\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-24T05:45:34.699Z"
+              "WhenOpened": "2025-05-24T05:45:34.699Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -500,7 +441,64 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 6,
+              "Title": "CreateAccountForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\buzat\\Documents\\froggymain\\SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882\\Forms\\Accounts\\CreateAccountForm.cs",
+              "RelativeDocumentMoniker": "SWE5201BankingSystemHE20882\\Forms\\Accounts\\CreateAccountForm.cs",
+              "ToolTip": "C:\\Users\\buzat\\Documents\\froggymain\\SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882\\Forms\\Accounts\\CreateAccountForm.cs [Design]",
+              "RelativeToolTip": "SWE5201BankingSystemHE20882\\Forms\\Accounts\\CreateAccountForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T06:11:25.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\buzat\\Documents\\froggymain\\SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882\\Forms\\Admin\\MainForm.cs",
+              "RelativeDocumentMoniker": "SWE5201BankingSystemHE20882\\Forms\\Admin\\MainForm.cs",
+              "ToolTip": "C:\\Users\\buzat\\Documents\\froggymain\\SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882\\Forms\\Admin\\MainForm.cs [Design]",
+              "RelativeToolTip": "SWE5201BankingSystemHE20882\\Forms\\Admin\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T06:09:06.28Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddCustomerForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\buzat\\Documents\\froggymain\\SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882\\Forms\\Customer\\AddCustomerForm.cs",
+              "RelativeDocumentMoniker": "SWE5201BankingSystemHE20882\\Forms\\Customer\\AddCustomerForm.cs",
+              "ToolTip": "C:\\Users\\buzat\\Documents\\froggymain\\SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882\\Forms\\Customer\\AddCustomerForm.cs [Design]",
+              "RelativeToolTip": "SWE5201BankingSystemHE20882\\Forms\\Customer\\AddCustomerForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T06:12:46.788Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddATMForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\buzat\\Documents\\froggymain\\SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882\\Forms\\ATMs\\AddATMForm.cs",
+              "RelativeDocumentMoniker": "SWE5201BankingSystemHE20882\\Forms\\ATMs\\AddATMForm.cs",
+              "ToolTip": "C:\\Users\\buzat\\Documents\\froggymain\\SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882\\Forms\\ATMs\\AddATMForm.cs [Design]",
+              "RelativeToolTip": "SWE5201BankingSystemHE20882\\Forms\\ATMs\\AddATMForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T06:12:31.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ManageBankForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\buzat\\Documents\\froggymain\\SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882\\Forms\\Admin\\ManageBankForm.cs",
+              "RelativeDocumentMoniker": "SWE5201BankingSystemHE20882\\Forms\\Admin\\ManageBankForm.cs",
+              "ToolTip": "C:\\Users\\buzat\\Documents\\froggymain\\SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882\\Forms\\Admin\\ManageBankForm.cs [Design]",
+              "RelativeToolTip": "SWE5201BankingSystemHE20882\\Forms\\Admin\\ManageBankForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T06:12:07.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "Log-In.cs [Design]",
               "DocumentMoniker": "C:\\Users\\buzat\\Documents\\froggymain\\SWE5201BankingSystemHE20882\\SWE5201BankingSystemHE20882\\Forms\\Log_In\\Log-In.cs",
               "RelativeDocumentMoniker": "SWE5201BankingSystemHE20882\\Forms\\Log_In\\Log-In.cs",
