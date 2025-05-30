@@ -125,7 +125,7 @@ namespace SWE5201BankingSystemHE20882
             AutoSizeMode = AutoSizeMode.GrowAndShrink;
             BackgroundImage = (Image)resources.GetObject("$this.BackgroundImage");
             BackgroundImageLayout = ImageLayout.Stretch;
-            ClientSize = new Size(1604, 881);
+            ClientSize = new Size(1582, 811);
             Controls.Add(label2);
             Controls.Add(btnBankStaffLogin);
             Controls.Add(lblPassword);
